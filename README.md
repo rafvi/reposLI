@@ -1,7 +1,7 @@
 # Label Image
 > Aplikacja służąca do seryjnego nanoszenia podpisów na pliki graficzne.
 
-##Funkcje
+## Funkcje
 * zmiana nazwy plików;
 * wykorzystanie szablonu nazwy (automatycznie generowana numeracja);
 
