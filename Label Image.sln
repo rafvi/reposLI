@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Label Image", "Label Image\Label Image.csproj", "{974F19DC-0EF1-4699-BA8E-B7DA3D2A30BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974F19DC-0EF1-4699-BA8E-B7DA3D2A30BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974F19DC-0EF1-4699-BA8E-B7DA3D2A30BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974F19DC-0EF1-4699-BA8E-B7DA3D2A30BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974F19DC-0EF1-4699-BA8E-B7DA3D2A30BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81B952D9-5237-46CF-96D8-B4DF3488B778}
+	EndGlobalSection
+EndGlobal

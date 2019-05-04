@@ -1,0 +1,20 @@
+C:\Users\Raffi\source\repos\Label Image\Label Image\bin\Debug\Label Image.exe.config
+C:\Users\Raffi\source\repos\Label Image\Label Image\bin\Debug\Label Image.exe
+C:\Users\Raffi\source\repos\Label Image\Label Image\bin\Debug\Label Image.pdb
+C:\Users\Raffi\source\repos\Label Image\Label Image\obj\Debug\Label Image.csprojAssemblyReference.cache
+C:\Users\Raffi\source\repos\Label Image\Label Image\obj\Debug\Label_Image.LabelImage.resources
+C:\Users\Raffi\source\repos\Label Image\Label Image\obj\Debug\Label_Image.Properties.Resources.resources
+C:\Users\Raffi\source\repos\Label Image\Label Image\obj\Debug\Label Image.csproj.GenerateResource.cache
+C:\Users\Raffi\source\repos\Label Image\Label Image\obj\Debug\Label Image.csproj.CoreCompileInputs.cache
+C:\Users\Raffi\source\repos\Label Image\Label Image\obj\Debug\Label Image.exe
+C:\Users\Raffi\source\repos\Label Image\Label Image\obj\Debug\Label Image.pdb
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\bin\Debug\Label Image.exe.config
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\bin\Debug\Label Image.exe
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\bin\Debug\Label Image.pdb
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\obj\Debug\Label Image.csprojAssemblyReference.cache
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\obj\Debug\Label_Image.LabelImage.resources
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\obj\Debug\Label_Image.Properties.Resources.resources
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\obj\Debug\Label Image.csproj.GenerateResource.cache
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\obj\Debug\Label Image.csproj.CoreCompileInputs.cache
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\obj\Debug\Label Image.exe
+C:\Users\Raffi\source\repos\Label Image\reposLI\Label Image\obj\Debug\Label Image.pdb
